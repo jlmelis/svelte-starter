@@ -1,0 +1,1 @@
+Svelte app template including basic example of netlify function.
